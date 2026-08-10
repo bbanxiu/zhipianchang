@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bbanxiu.github.io/zhipianchang/sitemap.xml
